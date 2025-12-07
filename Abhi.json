@@ -6,7 +6,7 @@
       "expiry_date": "2026-12-06",
       "active": true,
       "status": "active",
-      "max_devices": 1
+      "max_devices": 4
     },
     {
       "key": "Abhi-raj@123",
@@ -14,7 +14,7 @@
       "expiry_date": "2025-12-8",
       "active": true,
       "status": "active",
-      "max_devices": 1
+      "max_devices": 4
     },
     {
       "key": "TEST-0000-DEMO-1111",
